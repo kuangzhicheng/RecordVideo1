@@ -21,3 +21,4 @@ if __name__ == "__main__":
             print("输入的信息有误，请重新输入")
             continue
     input("输入回车按键退出")
+    print("增加打印Log")
